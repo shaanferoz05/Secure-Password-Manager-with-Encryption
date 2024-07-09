@@ -41,6 +41,8 @@ while True:
         break
     if mode == "view":
         view()
+
+        N
     elif mode == "add":
         add()
     else:
